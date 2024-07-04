@@ -1,0 +1,18 @@
+
+#root{
+    width: 50%;
+    height: 100%;
+    margin: auto;
+    padding: 2rem;
+    /* text-align: center; */
+    font-size: 1.2rem;
+    border: 2px solid magenta;
+    line-height: 26px;
+}
+container{
+    box-shadow: 2px 5px 0 rgba(0, 0, 0, 0.5);
+}
+/* h1{
+    text-align: center;
+} */
+
